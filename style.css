@@ -2,6 +2,11 @@ body,html{
   margin: 0;
   padding: 0;
 }
+
+.navbar-sticky-top.scrolled {
+  background-color: #red !important;
+  transition: background-color 200ms linear;
+}
 /* This is a comment in CSS nav{
   width: 100%;
   background:black;
